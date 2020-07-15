@@ -1,6 +1,6 @@
 # textfileApp
 
-Qt simple text application that with some features.
+Qt simple text application with some features.
 
 ![Screenshot](1.png)
 
